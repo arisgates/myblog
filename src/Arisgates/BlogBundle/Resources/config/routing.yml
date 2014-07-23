@@ -1,0 +1,3 @@
+arisgates_blog_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: ArisgatesBlogBundle:Default:index }
